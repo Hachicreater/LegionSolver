@@ -1,1 +1,1 @@
-https://xenogents.github.io/LegionSolver/
+https://hachicreater.github.io/LegionSolver/
