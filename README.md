@@ -1,1 +1,1 @@
-https://hachicreater.github.io/LegionSolver/
+https://hachicreater.github.io/LegionSolver-JMS-/
